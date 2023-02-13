@@ -1,4 +1,5 @@
 # Copyright © GG, Inc. and its affiliates.
+#lol this is just a joke this is no copywrite
 import tkinter as tk
 from tkinter import ttk
 
